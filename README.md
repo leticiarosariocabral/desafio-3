@@ -6,6 +6,9 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<p align="center">Aqui está o <a href="https://leticiarosariocabral.github.io/desafio-3/">demo</a> do desafio 3</p>
+
 <img src="/capa.jpg">
 
 ## 🚀 Tecnologias
@@ -26,3 +29,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## Demo
+
+ 
